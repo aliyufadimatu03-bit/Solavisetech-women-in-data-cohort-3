@@ -1,1 +1,1 @@
-# Solavisetech-women-in-data-cohort-3
+This program is aimed at training more women into data analysis,tech and artificial intelligence (AI). I look foward to be able to generate good AI promts by the end of the program and also to improve greatly on my technical and data analysis skills which will give me an upper hand in the job market and also be effficient at my job site
